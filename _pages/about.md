@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at UMD in ECE working with Prof. [Pratap Tokekar](http://raaslab.org/) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Ph.D. candidate at UMD in ECE working with Prof. [Pratap Tokekar](http://raaslab.org/). I received my M.S. and B.S. in EE at Harbin Institute of Technology.  
 
 Recent news
 ======
@@ -18,12 +18,15 @@ Recent news
 Honors and awards
 ======
 * The Ann G. Wylie Dissertation Fellowship (2023)
-* The Ann G. Wylie Dissertation Fellowship (2023)
+* International Workshop on the Algorithmic Foundations of Robotics (WAFR) Travel Grant (2022)
+* ECE Outstanding TA Award (2019)
+* Clark School of Engineering Distinguished Graduate Fellowship (2017)
 
 
 Teaching
 ======
 * ENEE 621 Estimation and Detection Theory
+* ENEE 307 Electronic Circuits Design
 
 
 
