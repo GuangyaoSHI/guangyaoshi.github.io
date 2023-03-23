@@ -24,9 +24,7 @@ Honors and awards
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Visitors
-------
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=oXLUS-3Iesx-b_7fwyX7vOsyE4f4gwugR3oIU_mKEf4"></script>
+
 
 
 
