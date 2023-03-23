@@ -5,8 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Journal articles**
-1. Z. Wu, **S.Cheng**, P. Zhao, A. Gahlawat, K. A. Ackerman, A. Lakshmanan, C. Yang, J. Yu, N. Hovakimyan, "L1Quad: L1 Adaptive Augmentation of Geometric Control for Agile Quadrotors with Performance Guarantees," under review. [\[arxiv\]](https://arxiv.org/abs/2302.07208) \| [\[video\]](https://youtu.be/18-2OqTRJ50)
+**Preprint**
+1. R. Liu, **G. Shi**, and P. Tokekar, “Data-driven distributionally robust optimal control with
+ state-dependent noise”, submitted to IROS 2023. [\[arxiv\]](https://arxiv.org/pdf/2303.02293.pdf) 
 1. Q. Chen, **S. Cheng**, N. Hovakimyan, "Simultaneous Spatial and Temporal Assignment for Fast UAV Trajectory Optimization using Bilevel Optimization," under review. [\[arXiv\]](https://arxiv.org/abs/2211.15902)
 1. **S. Cheng** and D. A. Paley, "Optimal guidance and estimation of a 2D diffusion-advection process by a team of mobile sensors," Automatica, vol. 137, p. 110112, 2022. [\[link\]](https://www.sciencedirect.com/science/article/pii/S0005109821006415)
 1. **S. Cheng** and D. A. Paley, "Cooperative estimation and control of a diffusion based spatiotemporal process using mobile sensors and actuators," under review.
@@ -14,10 +15,10 @@ author_profile: true
 1. **S. Cheng** and N. C. Martins, "An Optimality Gap Test for a Semidefinite Relaxation of a Quadratic Program with Two Quadratic Constraints," SIAM Journal on Optimization, vol. 31, no. 1, pp. 866-886, March 2021. [\[link\]](https://epubs.siam.org/doi/abs/10.1137/19M1273761) \| [\[code\]](https://github.com/Sheng-Cheng/QC2QP-SDR-Optimality-Gap-Test)
 1. A. Wolek, **S. Cheng**, D. Goswami, and D. A. Paley, "Cooperative mapping and target search over an unknown occupancy graph using mutual information," IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 1071-1078, April 2020. [\[link\]](https://ieeexplore.ieee.org/abstract/document/8957494) \| [\[video\]](xx)
 <!---
-. *S. Cheng*, "[http://hdl.handle.net/1903/21417 Reaching a target within a GPS-denied or costly area: a two-stage optimal control approach]," M.S. Thesis, University of Maryland, College Park, MD, 2018.
+comment a citation
 --->
 
-**Conference papers**
+**Published papers**
 1. **S. Cheng**, L. Song, M. Kim, S. Wang, N. Hovakimyan, "DiffTune+: Hyperparameter-Free Auto-Tuning using Auto-Differentiation," accepted by the 5th L4DC Conference.  [\[arXiv\]](https://arxiv.org/abs/2212.03194)
 1. **S. Cheng**, M. Kim, L. Song, Z. Wu, S. Wang, N. Hovakimyan, "DiffTune: Auto-Tuning through Auto-Differentiation," submitted. [\[arXiv\]](https://arxiv.org/abs/2209.10021) \| [\[video\]](https://youtu.be/otAv1EJF7EA)
 1. H. Lee, **S. Cheng**, Z. Wu, N. Hovakimyan, "Geometric Tracking Control of Omnidirectional Multirotors in the Presence of Rotor Dynamics," submitted. [\[arXiv\]](https://arxiv.org/abs/2209.10024) \| [\[video\]](https://youtu.be/Ip6MeS7rLhI)
@@ -27,5 +28,3 @@ author_profile: true
 1. **S. Cheng** and D. A. Paley, "Optimal control of a 1D diffusion process with a team of mobile actuators under jointly optimal guidance," in Proceedings of the 2020 American Control Conference, pp. 3449-3454, 2020. [\[link\]](https://ieeexplore.ieee.org/abstract/document/9147830) \| [\[slides\]](file/ACC2020_slides_noBackup_public.pptx) \| [\[video\]](https://youtu.be/0avnDGVcMyc)
 1. **S. Cheng** and N. C. Martins, "Reaching a target in a time-costly area using a two-stage optimal control method," in Proceedings of the 2019 American Control Conference, pp. 4903-4910, 2019. [\[link\]](https://ieeexplore.ieee.org/document/8815119) \| [\[slides\]](file/ACC_2019_Slide.pdf) 
 
-**Workshop papers**
-1. **S. Cheng**, M. Kim, L. Song, Z. Wu, S. Wang, N. Hovakimyan, "An Auto-Tuning Framework for Controllers using Auto-Differentiation," presented at CoRL workshop Learning to Adapt and Improve in the Real World (RoboAdapt), 2022.
