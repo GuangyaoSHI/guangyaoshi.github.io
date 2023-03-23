@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at UMD in ECE working with Prof. [Pratap Tokekar](http://raaslab.org/). I received my M.S. and B.S. in EE at Harbin Institute of Technology.  
+I am a Ph.D. candidate at UMD in ECE working with Prof. [Pratap Tokekar](http://raaslab.org/). I received my M.S. and B.S. in EE at Harbin Institute of Technology. I mainly work on coordination and learning algorithms for multi-robot decision-making under uncertainty with an emphasis on information gathering applications.
 
 Recent news
 ======
