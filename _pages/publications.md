@@ -25,11 +25,25 @@ comment a citation
 1. A. B. Asghar\*, **G. Shi\***, N. Karapetyan, J. Humann, J.-P. Reddinger, J. Dotterweich, and P. Tokekar,
 “Risk-aware resource allocation for multiple uavs-ugvs recharging rendezvous”, Proceedings of the IEEE
 International Conference on Robotics and Automation (ICRA), 2023, \* equal contribution. [\[arXiv\]](https://arxiv.org/pdf/2209.06308.pdf)
-1. **S. Cheng**, M. Kim, L. Song, Z. Wu, S. Wang, N. Hovakimyan, "DiffTune: Auto-Tuning through Auto-Differentiation," submitted. [\[arXiv\]](https://arxiv.org/abs/2209.10021) \| [\[video\]](https://youtu.be/otAv1EJF7EA)
-1. H. Lee, **S. Cheng**, Z. Wu, N. Hovakimyan, "Geometric Tracking Control of Omnidirectional Multirotors in the Presence of Rotor Dynamics," submitted. [\[arXiv\]](https://arxiv.org/abs/2209.10024) \| [\[video\]](https://youtu.be/Ip6MeS7rLhI)
-1. Z. Wu, **S.Cheng**, K. A. Ackerman, A. Gahlawat, A. Lakshmanan, P. Zhao, N. Hovakimyan, "L1 Adaptive Augmentation for Geometric Tracking Control of Quadrotors," in Proceedings of the International Conference on Robotics and Automation (ICRA), 2022, pp. 1329–1336. [\[paper\]](https://ieeexplore.ieee.org/document/9811946) \| [\[code\]](https://github.com/HovakimyanResearch/L1-Mambo) \| [\[video\]](https://youtu.be/25Z7iAkZ5xw)
-1. **S. Cheng** and D. A. Paley, "Optimal guidance of a team of mobile actuators for controlling a 1D diffusion process with unknown initial conditions," in Proceedings of the 2021 American Control Conference, pp. 1493-1498, 2021. [\[link\]](https://ieeexplore.ieee.org/document/9483247)
-1. **S. Cheng** and D. A. Paley, "Optimal guidance and estimation of a 1D diffusion process by a team of mobile sensors," in Proceedings of the 59th IEEE Conference on Decision and Control, pp. 1222-1228, 2020. [\[link\]](https://ieeexplore.ieee.org/document/9303985) \| [\[slides\]](file/CDC_2020_slides.pdf) \| [\[video\]](https://youtu.be/wMje3es4z2w)
-1. **S. Cheng** and D. A. Paley, "Optimal control of a 1D diffusion process with a team of mobile actuators under jointly optimal guidance," in Proceedings of the 2020 American Control Conference, pp. 3449-3454, 2020. [\[link\]](https://ieeexplore.ieee.org/abstract/document/9147830) \| [\[slides\]](file/ACC2020_slides_noBackup_public.pptx) \| [\[video\]](https://youtu.be/0avnDGVcMyc)
-1. **S. Cheng** and N. C. Martins, "Reaching a target in a time-costly area using a two-stage optimal control method," in Proceedings of the 2019 American Control Conference, pp. 4903-4910, 2019. [\[link\]](https://ieeexplore.ieee.org/document/8815119) \| [\[slides\]](file/ACC_2019_Slide.pdf) 
-
+1. **G. Shi**, L. Zhou, and P. Tokekar, “Robust multiple-path orienteering problem: Securing against
+adversarial attacks”, IEEE Transaction on Robotics, 2023. [\[link\]](https://ieeexplore.ieee.org/abstract/document/10008951) 
+1. **G. Shi**, N. Karapetyan, A. B. Asghar, J.-P. Reddinger, J. Dotterweich, J. Humann, and P. Tokekar,
+“Risk-aware uav-ugv rendezvous with chance-constrained markov decision process”, The 61th IEEE
+Conference on Decision and Control (CDC), 2022. [\[link\]](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9993358&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v) 
+1. X. Xu, **G. Shi**, P. Tokekar, and Y. Diaz-Mercado, “Interactive multi-robot aerial cinematography
+through hemispherical manifold coverage”, in 2022 IEEE/RSJ International Conference on Intelligent
+Robots and Systems (IROS), IEEE, 2022, pp. 11 528–11 534. [\[link\]](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9981181&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v) 
+1. **G. Shi**, I. E. Rabban, L. Zhou, and P. Tokekar, “Communication-aware multi-robot coordination with
+submodular maximization”, Proceedings of the IEEE International Conference on Robotics and
+Automation (ICRA), 2021. [\[link\]](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9561041&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
+1. **G. Shi**, L. Zhou, and P. Tokekar, “Robust multiple-path orienteering problem: Securing against
+adversarial attacks”, in Robotics: Science and Systems (RSS), 2020. 
+1. Y. Wang, **G. Shi**, Y. Yao, J. M. Alonso, G. Weifeng, X. Liu, and D. Xu, “A double-t-type compensation
+network and its tuning method for ipt system”, IEEE Transactions on Industry Applications, vol. 53,
+no. 5, pp. 4757–4767, 2017. [\[link\]](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=7947205&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v) 
+1. **G. Shi**, W. Guo, X. Liu, Y. Wang, Y. Yao, and D. Xu, “A double-t-type compensation network and its
+tuning method for ipt system”, in 2016 IEEE International Conference on Power Electronics, Drives
+and Energy Systems (PEDES), IEEE, 2016, pp. 1–5. [\[link\]](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=7914268&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50Lzc5MTQyNjg=) 
+1. Y. Wang, J. Huang, **G. Shi**, W. Wang, and D. Xu, “A single-stage single-switch led driver based on the
+integrated sepic circuit and class-e converter”, IEEE Transactions on Power Electronics, vol. 31, no. 8,
+pp. 5814–5824, 2015. [\[link\]](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=7295605&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v) 
