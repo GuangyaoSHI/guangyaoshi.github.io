@@ -24,7 +24,7 @@ comment a citation
 **Published papers**
 1. A. B. Asghar\*, **G. Shi\***, N. Karapetyan, J. Humann, J.-P. Reddinger, J. Dotterweich, and P. Tokekar,
 “Risk-aware resource allocation for multiple uavs-ugvs recharging rendezvous”, Proceedings of the IEEE
-International Conference on Robotics and Automation (ICRA), 2023, * equal contribution. [\[arXiv\]](https://arxiv.org/pdf/2209.06308.pdf)
+International Conference on Robotics and Automation (ICRA), 2023, \* equal contribution. [\[arXiv\]](https://arxiv.org/pdf/2209.06308.pdf)
 1. **S. Cheng**, M. Kim, L. Song, Z. Wu, S. Wang, N. Hovakimyan, "DiffTune: Auto-Tuning through Auto-Differentiation," submitted. [\[arXiv\]](https://arxiv.org/abs/2209.10021) \| [\[video\]](https://youtu.be/otAv1EJF7EA)
 1. H. Lee, **S. Cheng**, Z. Wu, N. Hovakimyan, "Geometric Tracking Control of Omnidirectional Multirotors in the Presence of Rotor Dynamics," submitted. [\[arXiv\]](https://arxiv.org/abs/2209.10024) \| [\[video\]](https://youtu.be/Ip6MeS7rLhI)
 1. Z. Wu, **S.Cheng**, K. A. Ackerman, A. Gahlawat, A. Lakshmanan, P. Zhao, N. Hovakimyan, "L1 Adaptive Augmentation for Geometric Tracking Control of Quadrotors," in Proceedings of the International Conference on Robotics and Automation (ICRA), 2022, pp. 1329–1336. [\[paper\]](https://ieeexplore.ieee.org/document/9811946) \| [\[code\]](https://github.com/HovakimyanResearch/L1-Mambo) \| [\[video\]](https://youtu.be/25Z7iAkZ5xw)
