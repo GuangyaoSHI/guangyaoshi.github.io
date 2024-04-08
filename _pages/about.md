@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at UMD in ECE working with Prof. [Pratap Tokekar](http://raaslab.org/). I received my M.S. and B.S. in EE at Harbin Institute of Technology. I mainly work on coordination and learning algorithms for multi-robot decision-making under uncertainty with an emphasis on information gathering applications.
+I am currently a postdoc with Prof. [Gaurav S. Sukhatme](https://uscresl.org/principal-investigator/) at USC. I was a Ph.D. candidate at UMD in ECE working with Prof. [Pratap Tokekar](http://raaslab.org/). I received my M.S. and B.S. in EE at Harbin Institute of Technology. I mainly work on coordination and learning algorithms for multi-robot decision-making under uncertainty with an emphasis on information gathering applications.
 
 Recent news
 ======
+* 2024/01: One paper accepted to [ACC' 24](https://arxiv.org/pdf/2307.04328.pdf) and one to [ICRA' 24](https://arxiv.org/pdf/2310.07621.pdf). 
+* 2023/11: I started to work as postdoc at [RESL](https://uscresl.org/).
 * 2023/03: I was awarded The Ann G. Wylie Dissertation Fellowship.
 * 2023/01: Our paper Robust Multiple-Path Orienteering Problem: Securing Against Adversarial Attacks is available on [IEEE Transactions on Robotics](https://ieeexplore.ieee.org/abstract/document/10008951). 
 
