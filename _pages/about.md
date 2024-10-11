@@ -20,6 +20,7 @@ Recent news
 * 2023/11: I started to work as postdoc at [RESL](https://uscresl.org/).
 * 2023/03: I was awarded The Ann G. Wylie Dissertation Fellowship.
 * 2023/01: Our paper Robust Multiple-Path Orienteering Problem: Securing Against Adversarial Attacks is available on [IEEE Transactions on Robotics](https://ieeexplore.ieee.org/abstract/document/10008951). 
+* 2020/01: I jointed RAAS lab and started to work on multi-robot coordination.
 
 Honors and awards
 ======
