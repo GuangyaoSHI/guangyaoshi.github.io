@@ -12,7 +12,7 @@ I am currently a postdoc with Prof. [Gaurav S. Sukhatme](https://uscresl.org/pri
 
 Recent news
 ======
-* 2024/12: I was selected as a finalist for IEEE RAS Best Dissertation Award on Multi-Robot Systems 2024.
+* 2024/12: I was selected as a finalist for **IEEE RAS Best Dissertation Award on Multi-Robot Systems** 2024.
 * 2024/09: One paper accepted to [ISRR' 24](https://arxiv.org/abs/2403.10795).
 * 2024/09: Our work “Fast k-connectivity Restoration in Multi-Robot Systems for Robust Communication Maintenance” has been **nominated for a best paper award** at the 17th edition of the International Symposium on Distributed Autonomous Robotic Systems (DARS).
 * 2024/08: One paper accepted to [WAFR' 24](https://arxiv.org/pdf/2406.10199). 
