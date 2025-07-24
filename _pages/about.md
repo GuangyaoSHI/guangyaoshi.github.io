@@ -12,6 +12,9 @@ I am currently a postdoc with Prof. [Gaurav S. Sukhatme](https://uscresl.org/pri
 
 Recent news
 ======
+* 2025/06: We organized a workshop [Leveraging Implicit Methods for Aerial Autonomy](https://im4rob.github.io/) at [RSS25](https://roboticsconference.org/) .
+* 2025/04: Our survey paper [A Survey of State of the Art Large Vision Language Models: Benchmark Evaluations and Challenges]() was accepted to [workshop](https://cvpr25workshop.netlify.app/) at CVPR .
+* 2025/02: I will work with [Daniel Seita](https://danielseita.github.io/) as Accessibility committee for [RSS25](https://roboticsconference.org/) .
 * 2024/12: I was selected as a finalist for **IEEE RAS Best Dissertation Award on Multi-Robot Systems** 2024.
 * 2024/09: One paper accepted to [ISRR' 24](https://arxiv.org/abs/2403.10795).
 * 2024/09: Our work “Fast k-connectivity Restoration in Multi-Robot Systems for Robust Communication Maintenance” has been **nominated for a best paper award** at the 17th edition of the International Symposium on Distributed Autonomous Robotic Systems (DARS).
