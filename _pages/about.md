@@ -15,6 +15,7 @@ Recent news
 * 2025/09: Our paper [VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations on Synthetic Video Understanding](https://arxiv.org/abs/2505.01481) was accepted to Neurips 2026.
 * 2025/09： I will serve as associate editor for ICRA 2026.
 * 2025/06: We organized a workshop [Leveraging Implicit Methods for Aerial Autonomy](https://im4rob.github.io/) at [RSS25](https://roboticsconference.org/) .
+* 2025/05: I will serve as session chair for ICRA 2025 ThCT12 Big Data.
 * 2025/04: Our survey paper [A Survey of State of the Art Large Vision Language Models: Benchmark Evaluations and Challenges]() was accepted to [workshop](https://cvpr25workshop.netlify.app/) at CVPR .
 * 2025/02: I will work with [Daniel Seita](https://danielseita.github.io/) as Accessibility committee for [RSS25](https://roboticsconference.org/) .
 * 2024/12: I was selected as a finalist for **IEEE RAS Best Dissertation Award on Multi-Robot Systems** 2024.
