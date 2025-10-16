@@ -12,6 +12,7 @@ I am currently a postdoc with Prof. [Gaurav S. Sukhatme](https://uscresl.org/pri
 
 Recent news
 ======
+* 2025/10: We have one paper accepted to Autonomous Robots.
 * 2025/09: We have two papers accepted to [IEEE International Symposium on Multi-Robot & Multi-Agent Systems](https://www.sutd.edu.sg/mrs2025/ ): [paper1](https://arxiv.org/pdf/2507.16068 ), [paper2](https://arxiv.org/pdf/2409.12274 ). 
 * 2025/09: Our paper [VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations on Synthetic Video Understanding](https://arxiv.org/abs/2505.01481) was accepted to Neurips 2026.
 * 2025/09： I will serve as associate editor for ICRA 2026.
