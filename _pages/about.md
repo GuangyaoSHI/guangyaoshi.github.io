@@ -14,7 +14,7 @@ Recent news
 ======
 * 2025/10: We have one paper accepted to Autonomous Robots.
 * 2025/09: We have two papers accepted to [IEEE International Symposium on Multi-Robot & Multi-Agent Systems](https://www.sutd.edu.sg/mrs2025/ ): [paper1](https://arxiv.org/pdf/2507.16068 ), [paper2](https://arxiv.org/pdf/2409.12274 ). 
-* 2025/09: Our paper [VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations on Synthetic Video Understanding](https://arxiv.org/abs/2505.01481) was accepted to Neurips 2026.
+* 2025/09: Our paper [VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations on Synthetic Video Understanding](https://arxiv.org/abs/2505.01481) was accepted to Neurips 2025.
 * 2025/09： I will serve as associate editor for ICRA 2026.
 * 2025/06: We organized a workshop [Leveraging Implicit Methods for Aerial Autonomy](https://im4rob.github.io/) at [RSS25](https://roboticsconference.org/) .
 * 2025/05: I will serve as session chair for ICRA 2025 ThCT12 Big Data.
