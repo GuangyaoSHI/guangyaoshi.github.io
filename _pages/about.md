@@ -10,6 +10,9 @@ redirect_from:
 
 I am currently a postdoc with Prof. [Gaurav S. Sukhatme](https://uscresl.org/principal-investigator/) at USC. I was a Ph.D. candidate at UMD in ECE working with Prof. [Pratap Tokekar](http://raaslab.org/). I received my M.S. and B.S. in EE at Harbin Institute of Technology. I mainly work on coordination and learning algorithms for multi-robot decision-making under uncertainty with an emphasis on information gathering applications.
 
+#Research Vision
+
+
 Recent news
 ======
 * 2025/10: We have one paper accepted to Autonomous Robots.
