@@ -17,11 +17,11 @@ My research goal is to identify the underlying computational principles and deve
 
 The core of my research focuses on coordinating the motion of multiple robots in large-scale environments—relative to robot size—to achieve collective goals, while accounting for individual robot capabilities (e.g., battery capacity, load capacity, field of view, communication range) and environmental uncertainties. The key contributions of my work include:
 
-1. **Multi-robot scientific information collection under uncertainty**: planning paths for homogeneous/heterogeneous robots to gather information in dynamic environments under robot capability constraints and environmental uncertainty.
+* **Multi-robot scientific information collection under uncertainty**: planning paths for homogeneous/heterogeneous robots to gather information in dynamic environments under robot capability constraints and environmental uncertainty.
 
-2. **Human-in-the-loop multi-robot coordination**: developing coordination frameworks using combinatorial optimization and LLMs to enable non-expert humans to interact with robotic teams through direct action feedback or language.
+* **Human-in-the-loop multi-robot coordination**: developing coordination frameworks using combinatorial optimization and LLMs to enable non-expert humans to interact with robotic teams through direct action feedback or language.
 
-3. **Towards a foundational model for multi-robot task planning**: constructing datasets for multi-robot task allocation and routing optimization and leveraging it to build machine learning models that can translate natural language into optimization formulations and can accelerate finding the solution of these optimization problems.
+* **Towards a foundational model for multi-robot task planning**: constructing datasets for multi-robot task allocation and routing optimization and leveraging it to build machine learning models that can translate natural language into optimization formulations and can accelerate finding the solution of these optimization problems.
 </div>
 
 
