@@ -10,8 +10,8 @@ redirect_from:
 
 I am currently a postdoc with Prof. [Gaurav S. Sukhatme](https://uscresl.org/principal-investigator/) at USC. I was a Ph.D. candidate at UMD in ECE working with Prof. [Pratap Tokekar](http://raaslab.org/). I received my M.S. and B.S. in EE at Harbin Institute of Technology. I mainly work on coordination and learning algorithms for multi-robot decision-making under uncertainty with an emphasis on information gathering applications.
 
-#Research Vision
-
+Research Vision
+======
 My research goal is to identify the underlying computational principles and develope coordination algorithms that enable fleets of robots to **sense** (e.g., environmental monitoring, target search/tracking, exploration, infrastructure inspection) and **reconfigure** (e.g., cooperative transportation, construction, large objects assembly/disassembly) their environment in an autonomous manner that is both scalable and near-optimal. To achieve this goal, I have developed new algorithms and frameworks that unify tools and techniques from robotics, AI, operations research, and theoretical computer science communities. Moreover, my research focuses not only on creating coordination algorithms and studying their computational performance, but also on deploying these methods on mobile robots in physical settings.
 
 The core of my research focuses on coordinating the motion of multiple robots in large-scale environments—relative to robot size—to achieve collective goals, while accounting for individual robot capabilities (e.g., battery capacity, load capacity, field of view, communication range) and environmental uncertainties. The key contributions of my work include:
