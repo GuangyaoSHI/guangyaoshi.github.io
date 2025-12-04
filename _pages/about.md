@@ -27,7 +27,7 @@ The core of my research focuses on coordinating the motion of multiple robots in
 
 Recent news
 ======
-* 2025/11: We are organizing a new Topical Collection in Autonomous Robots: “[Leveraging Implicit Representations for Learning-Enabled Autonomous Flight.](https://im4rob.github.io/topical/)”
+* 2025/11: We are organizing a new Topical Collection in Autonomous Robots: “[Leveraging Implicit Representations for Learning-Enabled Autonomous Flight](https://im4rob.github.io/topical/)”.
 * 2025/10: We have one paper accepted to Autonomous Robots.
 * 2025/09: We have two papers accepted to [IEEE International Symposium on Multi-Robot & Multi-Agent Systems](https://www.sutd.edu.sg/mrs2025/ ): [paper1](https://arxiv.org/pdf/2507.16068 ), [paper2](https://arxiv.org/pdf/2409.12274 ). 
 * 2025/09: Our paper [VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations on Synthetic Video Understanding](https://arxiv.org/abs/2505.01481) was accepted to Neurips 2025.
