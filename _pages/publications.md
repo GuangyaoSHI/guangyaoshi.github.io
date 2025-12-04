@@ -22,6 +22,7 @@ comment a citation
 --->
 
 **Published papers**
+
 1. A. B. Asghar\*, **G. Shi\***, N. Karapetyan, J. Humann, J.-P. Reddinger, J. Dotterweich, and P. Tokekar,
 “Risk-aware resource allocation for multiple uavs-ugvs recharging rendezvous”, Proceedings of the IEEE
 International Conference on Robotics and Automation (ICRA), 2023, \* equal contribution. [\[arXiv\]](https://arxiv.org/pdf/2209.06308.pdf)
