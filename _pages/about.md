@@ -27,6 +27,7 @@ The core of my research focuses on coordinating the motion of multiple robots in
 
 Recent news
 ======
+* 2026/02: We have one paper accepted to [AAMAS 2026](https://arxiv.org/pdf/2508.10340?).
 * 2026/01: I will serve as associate editor for IROS 2026.
 * 2025/11: I will serve as associate editor for IEEE RA-L.
 * 2025/11: We are organizing a new Topical Collection in Autonomous Robots: “[Leveraging Implicit Representations for Learning-Enabled Autonomous Flight](https://im4rob.github.io/topical/)”.
