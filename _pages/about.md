@@ -27,6 +27,7 @@ The core of my research focuses on coordinating the motion of multiple robots in
 
 Recent news
 ======
+* 2026/02: We have one paper accepted to [CVPR](https://arxiv.org/abs/2511.15700).
 * 2026/02: We have one paper accepted to [AAMAS 2026](https://arxiv.org/pdf/2508.10340?).
 * 2026/01: I will serve as associate editor for IROS 2026.
 * 2025/11: I will serve as associate editor for IEEE RA-L.
