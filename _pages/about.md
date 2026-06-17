@@ -27,6 +27,7 @@ The core of my research focuses on coordinating the motion of multiple robots in
 
 Recent news
 ======
+* 2026/06: We have four papers accepted to IROS 2026! 
 * 2026/05: Our workshop proposal on Tightly Coupled Physical Interaction and Collaboration in Multi-Robot Systems is accepted to IROS 2026.
 * 2026/02: We have one paper accepted to [CVPR](https://arxiv.org/abs/2511.15700).
 * 2026/02: We have one paper accepted to [AAMAS 2026](https://arxiv.org/pdf/2508.10340?).
