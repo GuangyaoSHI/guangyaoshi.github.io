@@ -27,6 +27,7 @@ The core of my research focuses on coordinating the motion of multiple robots in
 
 Recent news
 ======
+* 2026/09: We have one paper accepted to IEEE Transaction on Robotics [TRO](https://arxiv.org/abs/2403.10991).
 * 2026/09: I will serve as associate editor for ICRA 2027.
 * 2026/06: We have four papers accepted to IROS 2026! 
 * 2026/05: Our workshop proposal on Tightly Coupled Physical Interaction and Collaboration in Multi-Robot Systems is accepted to IROS 2026.
